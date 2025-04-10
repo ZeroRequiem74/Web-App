@@ -4,7 +4,7 @@ This code is a personal portfolio with a fun twist, it includes a game mechanic.
 
 My purpose in makeing this was to make a portfolio that was both fun and showed off the programming skills I have.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EJRmug6zAuc)
 
 # Web Pages
 
